@@ -9,7 +9,6 @@
  * - data:     Data available for accessor fields.
  */
 
-console.log('I am in master')
 
 // Core
 import React, { PropTypes, Component } from 'react';

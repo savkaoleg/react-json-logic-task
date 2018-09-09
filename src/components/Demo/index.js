@@ -6,8 +6,6 @@ import '../../../dist/style.css';
 import Editor from '../Editor';
 import style from './style.scss';
 
-console.log('jsonLogicJs',jsonLogicJs.apply(JSON.parse('{"===":[1,{"var":["test",1]}]}'),{ a: { b: 1, c: 15, d: { f: 18 } }, x: { y: 15 } }))
-
 // PropTypes
 const { bool, string, object, oneOfType } = PropTypes;
 const propTypes = {
@@ -49,9 +47,6 @@ class Demo extends Component {
   render() {
     const { async, title } = this.props;
     const { value, data, result } = this.state;
-
-  console.log('data',data)
-  console.log('value',value)
 
     return (
 
