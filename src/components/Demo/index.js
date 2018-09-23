@@ -6,9 +6,6 @@ import '../../../dist/style.css';
 import Editor from '../Editor';
 import style from './style.scss';
 
-const foo = () => 2
-foo()
-
 // PropTypes
 const { bool, string, object, oneOfType } = PropTypes;
 const propTypes = {
