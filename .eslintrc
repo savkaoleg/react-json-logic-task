@@ -7,8 +7,7 @@
     "browser": true,
     "node": true,
     "mocha": true,
-    "es6": true,
-    "jest": true
+    "es6": true
   },
   "ecmaFeatures": {
     "jsx": true,
@@ -20,8 +19,7 @@
   "parser": "babel-eslint",
   "plugins": [
     "babel",
-    "react",
-    "jest"
+    "react"
   ],
   "rules": {
     "block-scoped-var": [0],

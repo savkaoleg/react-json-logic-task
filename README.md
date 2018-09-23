@@ -1,6 +1,6 @@
 # React Json Logic
 
-live demo: [my herokuapp](https://jsonlogic.herokuapp.com/)
+live demo: [my herokuapp](https://frozen-river-93186.herokuapp.com/jsonlogic/)
 
 I just changet options.js file from react-json-logic lib
 
